@@ -34,13 +34,15 @@ SELECT timezone_to(datetime('now', 'localtime'), 'UTC',  'Australia/Sydney');
    _Available via sidebar on this repo._
 2. Load `.so` file to SQLite using one of the [standard methods](https://sqlite.org/loadext.html) once SQLite is loaded:
 
-  ```sql
-  sqlite3 example-db.sqlite3
+    ```sql
+    sqlite3 example-db.sqlite3
 
-  .load ./path/to/timezone_to.so
-  -- or
-  SELECT sqlite3_load_extension('./path/to/timezone_to.so');
-  ```
+    -- either
+    .load ./path/to/timezone_to.so
+
+    -- or
+    SELECT sqlite3_load_extension('./path/to/timezone_to.so');
+    ```
 
 3. Ready to use.
 
