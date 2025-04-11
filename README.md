@@ -56,15 +56,15 @@ License is needed for business related or commercial use.
 
 Apply license with:
 
-```sql
-SELECT set_timezone_to_license(<key>, <name>);
-```
-
-or OS environment variable:
-
-```bash
-SQLITE_TIMEZONE_TO_LICENSE=<key>:<name>
-```
+> ```sql
+> SELECT set_timezone_to_license(<key>, <name>);
+> ```
+> 
+> or OS environment variable:
+> 
+> ```bash
+> SQLITE_TIMEZONE_TO_LICENSE=<key>:<name>
+> ```
 
 
 ## Support
