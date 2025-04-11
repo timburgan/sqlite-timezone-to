@@ -37,10 +37,10 @@ SELECT timezone_to(datatime('now', 'localtime'), 'UTC',  'Australia/Sydney');
 
 ## License
 
-Personal use is free. License is needed for business related or commercial use. 
+Personal use is free.  
+License is needed for business related or commercial use. 
 
-There is free unlimited usage for 30 days, at which time the license will be verified.
-
+- There is free unlimited usage for 30 days, at which time the license will be verified.
 - Licensed use is USD $99.  
   Purchase at https://example.com/sqlite-timezone-to 
 
