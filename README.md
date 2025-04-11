@@ -19,19 +19,29 @@ timezone_to(
 
 Example
 ```sql
-SELECT timezone_to(datatime('2025-04-10 14:00'), 'America/New_York', 'Europe/London');
+SELECT timezone_to(datetime('2025-04-10 14:00'), 'America/New_York', 'Europe/London');
 -- Output: '2025-04-10 19:00:00'
 
-SELECT timezone_to(datatime('now'), 'UTC', 'Australia/Sydney');
+SELECT timezone_to(datetime('now'), 'UTC', 'Australia/Sydney');
 
-SELECT timezone_to(datatime('now', 'localtime'), 'UTC',  'Australia/Sydney');
+SELECT timezone_to(datetime('now', 'localtime'), 'UTC',  'Australia/Sydney');
 ```
 
 
 ## Installation
 
-1. Download the latest release file.
-2. Load to SQLite.
+1. Download the [latest release](https://github.com/timburgan/sqlite-timezone-to/releases) `.so` file.  
+   _Available via sidebar on this repo._
+2. Load `.so` file to SQLite using one of the [standard methods](https://sqlite.org/loadext.html) once SQLite is loaded:
+
+  ```sql
+  sqlite3 example-db.sqlite3
+
+  .load ./path/to/timezone_to.so
+  -- or
+  SELECT sqlite3_load_extension('./path/to/timezone_to.so');
+  ```
+
 3. Ready to use.
 
 
@@ -45,11 +55,14 @@ License is needed for business related or commercial use.
   Purchase at https://example.com/sqlite-timezone-to 
 
 Apply license with:
-```
+
+```sql
 SELECT set_timezone_to_license(<key>, <name>);
 ```
+
 or OS environment variable:
-```
+
+```bash
 SQLITE_TIMEZONE_TO_LICENSE=<key>:<name>
 ```
 
