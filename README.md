@@ -48,6 +48,11 @@ SELECT timezone_to(datetime('now', 'localtime'), 'UTC',  'Australia/Sydney');
 3. Ready to use.
 
 
+## Dependencies
+
+This requires your SQLite database to be running on Debian or Ubuntu-like systems. The timezone database is deferred to the OS.
+
+
 ## License
 
 Personal use is free.  
