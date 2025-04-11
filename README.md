@@ -8,12 +8,13 @@
 
 
 ### Usage
-```js
+```sql
+SELECT
 timezone_to(
   <datetime>, 
   <IANA_timezone_of_that_datetime>, 
   <IANA_timezone_to_convert_the_datetime_to>
-)
+);
 ```
 
 Example
@@ -38,9 +39,10 @@ SELECT timezone_to(datatime('now', 'localtime'), 'UTC',  'Australia/Sydney');
 
 Personal use is free. License is needed for business related or commercial use. 
 
-There is free umlimited usage for 30 days, at which time, license will be verified.
+There is free unlimited usage for 30 days, at which time the license will be verified.
 
-Licensed use is USD $99. Purchase at https://example.com/sqlite-timezone-to 
+- Licensed use is USD $99.  
+  Purchase at https://example.com/sqlite-timezone-to 
 
 Apply license with:
 ```
