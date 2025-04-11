@@ -1,4 +1,4 @@
-# `timezone_to` SQLite Timezone Extension 
+# `timezone_to`<br>SQLite Timezone Extension 
 <center><code>timezone_to(DATETIME('2025-01-01 16:33:22'), 'UTC', 'Australia/Sydney')</code></center>
 
 
