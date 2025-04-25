@@ -2,11 +2,12 @@
 
 This page contains:
 
-1. Terms of Service
-2. Privacy Policy
-3. Refund Policy
+1. [Terms of Service](#terms-of-service)
+2. [Privacy Policy](#privacy-policy)
+3. [Refund Policy](#refund-policy)
 
 Updates to these policies will be made on this website. Any changes will be viewable via the diffs and pull requests directly.
+
 
 ## Terms of Service
 
@@ -35,33 +36,6 @@ By using this Extension, you agree to the following Terms of Service. If you do 
 ### Changes to Terms
 - These Terms of Service may be updated from time to time. Continued use of the Extension constitutes acceptance of the updated terms.
 
-If you have any inquiries or issues, please contact the developer directly.
-
-
-## Refund Policy
-
-We strive to ensure your satisfaction with the SQLite Timezone Extension (the "Extension"). If you are not satisfied with your purchase, the following refund policy applies.
-
-### Eligibility for Refunds
-- Refunds are only available within **30 days of the purchase date**.
-- To be eligible for a refund, you must provide proof of purchase (e.g., receipt or transaction ID).
-- Refunds will not be granted for issues arising from failure to test the Extension during the 30-day trial period.
-
-### Process for Refunds
-- To request a refund, please contact the developer directly at sqlite@timburgan.com.
-- Include your proof of purchase and a brief explanation of your refund request.
-- Refunds will be processed within **7 business days** of approval.
-
-### Limitations
-- Refunds will be issued to the original payment method only.
-- Requests made after the 30-day refund window will not be considered.
-- The Extension is sold **as-is**, and refunds are not granted for damages, incompatibility, or issues outside the developer's control.
-
-### Changes to Refund Policy
-- This Refund Policy may be updated from time to time. Continued use of the Extension constitutes acceptance of the updated policy.
-
-If you have any questions or concerns, please reach out to the developer directly.
-
 
 ## Privacy Policy
 
@@ -88,3 +62,26 @@ This Privacy Policy explains how we collect, use, and protect your information w
 
 ### Changes to This Policy
 - This Privacy Policy may be updated from time to time. Continued use of the Extension constitutes acceptance of the updated policy.
+
+
+## Refund Policy
+
+We strive to ensure your satisfaction with the SQLite Timezone Extension (the "Extension"). If you are not satisfied with your purchase, the following refund policy applies.
+
+### Eligibility for Refunds
+- Refunds are only available within **30 days of the purchase date**.
+- To be eligible for a refund, you must provide proof of purchase (e.g., receipt or transaction ID).
+- Refunds will not be granted for issues arising from failure to test the Extension during the 30-day trial period.
+
+### Process for Refunds
+- To request a refund, please contact the developer directly at sqlite@timburgan.com.
+- Include your proof of purchase and a brief explanation of your refund request.
+- Refunds will be processed within **7 business days** of approval.
+
+### Limitations
+- Refunds will be issued to the original payment method only.
+- Requests made after the 30-day refund window will not be considered.
+- The Extension is sold **as-is**, and refunds are not granted for damages, incompatibility, or issues outside the developer's control.
+
+### Changes to Refund Policy
+- This Refund Policy may be updated from time to time. Continued use of the Extension constitutes acceptance of the updated policy.
