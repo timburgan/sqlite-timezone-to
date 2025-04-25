@@ -13,6 +13,8 @@ Updates to these policies will be made on this website. Any changes will be view
 
 By using this Extension, you agree to the following Terms of Service. If you do not agree, do not use this Extension.
 
+The extension is sold and developed by Timothy Burgan, ABN 42 527 094 840.
+
 ### Usage
 - The Extension is **free for non-commercial use**.
 - Any use related to income-producing work, whether intended, hopeful, or actual, requires a **valid license**. You may use the Extension without restriction for initial **30-day period** to test it's functionality and suitability.
