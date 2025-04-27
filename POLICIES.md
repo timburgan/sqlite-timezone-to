@@ -44,22 +44,22 @@ The extension is sold and developed by Timothy Burgan, ABN 42 527 094 840.
 This Privacy Policy explains how we collect, use, and protect your information when you use the SQLite Timezone Extension (the "Extension") and related services.
 
 ### Information Collection
-- When you purchase a license for the Extension, your payment is processed through the **Paddle Payment Platform**. Paddle may collect information such as your name, email address, and payment details in accordance with their own [Privacy Policy](https://paddle.com/privacy/).
+- When you purchase a license for the Extension, your payment is processed through the **Polar Payment Platform**. Polar may collect information such as your name, email address, and payment details in accordance with their own [Privacy Policy](https://Polar.sh/privacy/).
 - When you download the Extension from GitHub, no personal information is collected or required. You are not required to log in to GitHub to access the download.
 
 ### Information Usage
 - Any personal information collected during the purchase process and license activation is used solely for license management and to provide support if requested.
-- We do not collect or store sensitive payment information; this is handled securely by the Paddle Payment Platform.
+- We do not collect or store sensitive payment information; this is handled securely by the Polar Payment Platform.
 
 ### Information Sharing
 - We do **not** share your information with third parties, except if Australia or Qld government explicitly request so via a valid government audit or legal request.
 
 ### Data Security
-- We take reasonable precautions to protect your information. However, we rely on Paddle and GitHub's security measures for payment processing and download distribution, respectively.
+- We take reasonable precautions to protect your information. However, we rely on Polar and GitHub's security measures for payment processing and download distribution, respectively.
 
 ### Third-Party Services
-- Please review the Privacy Policies of **Paddle** and **GitHub** for details on how they handle your information:
-  - [Paddle Privacy Policy](https://paddle.com/privacy/)
+- Please review the Privacy Policies of **Polar** and **GitHub** for details on how they handle your information:
+  - [Polar Privacy Policy](https://Polar.com/privacy/)
   - [GitHub Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)
 
 ### Changes to This Policy

@@ -60,7 +60,7 @@ License is needed for business related or commercial use.
 
 - There is free unlimited usage for 30 days, at which time the license will be verified.
 - Licensed use is USD $99.  
-  Purchase at https://example.com/sqlite-timezone-to 
+- [Purchase directly here](https://buy.polar.sh/polar_cl_HPU1TgYW6qrNx5vOyzsSM0XV4ey22DSD7sQKj1r6esK). A license key will be emailed to you immediately.
 
 Apply license with:
 
