@@ -1,5 +1,5 @@
 # `timezone_to`<br>SQLite Timezone Extension 
-<center><code>timezone_to(DATETIME('2025-01-01 16:33:22'), 'UTC', 'Australia/Sydney')</code></center>
+<center><code>timezone_to('2025-04-10 14:00:00'), 'UTC', 'Australia/Sydney')</code></center>
 
 
 ## Overview
