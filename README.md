@@ -7,24 +7,19 @@
 `timezone_to` is an SQLite extension that enables seamless timezone conversion within SQLite queries. It enables timezone-aware timestamps directly in SQLite, that SQLite doesn't otherwise support beyond [localtime or UTC](https://sqlite.org/lang_datefunc.html).
 
 
-### Usage
+### Usage examples
 ```sql
-SELECT
-timezone_to(
-  <datetime>, 
-  <IANA_timezone_of_that_datetime>, 
-  <IANA_timezone_to_convert_the_datetime_to>
-);
-```
+SELECT timezone_to('2025-04-10 14:00', 'America/New_York', 'Europe/London');
+-- Output: '2025-04-10 19:00:00'
 
-Example
-```sql
 SELECT timezone_to(datetime('2025-04-10 14:00'), 'America/New_York', 'Europe/London');
 -- Output: '2025-04-10 19:00:00'
 
+-- what's current time in Sydney?
 SELECT timezone_to(datetime('now'), 'UTC', 'Australia/Sydney');
 
-SELECT timezone_to(datetime('now', 'localtime'), 'UTC',  'Australia/Sydney');
+-- or
+SELECT timezone_to(datetime('now', 'localtime'), 'America/New_York',  'Australia/Sydney');
 ```
 
 
